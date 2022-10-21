@@ -1,0 +1,18 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 15px;
+    width: 90%;
+  
+}
+a{
+    font-size: 20px;
+    padding: 10px;
+    margin: 5px;
+    color: rgb(240, 247, 240);
+   text-decoration: none;
+}
+a:hover{
+  color:#f2d280;
+}

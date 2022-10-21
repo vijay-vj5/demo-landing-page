@@ -1,0 +1,18 @@
+.logo{
+    /* width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start; */
+    padding-left: 50px;
+    margin-top: -78px;
+     
+}
+.brand{
+    height: 30%;
+    width: 10%;
+}
+h1{
+    font-size: 45px;
+    color: #e8c573;
+    margin-top:-25px;
+}
